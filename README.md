@@ -1,38 +1,25 @@
-﻿<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                    YASSINE LAMSAAF — GITHUB PROFILE README           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+﻿<!--
+  ══════════════════════════════════════════════════════════════════════════
+  YASSINE LAMSAAF — GITHUB PROFILE README
+  Palette · bg #0d1117 · border #30363d · accent #58a6ff · muted #8b949e
+  ══════════════════════════════════════════════════════════════════════════
+-->
 
 <div align="center">
 
-<!-- ─── HEADER WAVE ──────────────────────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=220&section=header&text=Yassine%20Lamsaaf&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%40%20INPT%20Rabat&descSize=20&descColor=a0c4ff&descAlignY=58" />
-
-<!-- ─── TYPING ANIMATION ──────────────────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Building+scalable+software+%26+AI-powered+systems+%F0%9F%9A%80;Full-Stack+%7C+DevOps+%7C+Cloud+Architecture;VP+External+Relations+%40+A2S+%7C+Web+Lead+%40+CIT;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Yassine%20Lamsaaf&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineering%20Student%20%40%20INPT%20Rabat&descSize=18&descColor=a9c7f5&descAlignY=58" />
 
 <br/>
 
-<!-- ─── MAIN BADGES ───────────────────────────────────────────────────── -->
-<a href="https://www.linkedin.com/in/yassine-lamsaaf-9821462a8">
-  <img src="https://img.shields.io/badge/LinkedIn-Yassine%20Lamsaaf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:lamsaafyassine20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=yassinelamsaaf&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=660&lines=Backend+Engineering+%7C+DevOps+%7C+Cloud+Architecture;Designing+Distributed+Systems+and+Developer+Tooling;Open+to+a+2026+PFE+Internship" alt="Typing" />
 
-<br/><br/>
+<br/>
 
-<!-- ─── INFO PILLS ────────────────────────────────────────────────────── -->
-<img src="https://img.shields.io/badge/🎓_INPT-Software_Engineering-58a6ff?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Rabat-Morocco-58a6ff?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/💼-Open_to_Internships-00cc8f?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/☁️-AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
+<a href="mailto:lamsaafyassine20@gmail.com"><img src="https://img.shields.io/badge/Email-lamsaafyassine20@gmail.com-58a6ff?style=flat-square&labelColor=0d1117" alt="Email" /></a>
+&nbsp;<a href="https://www.linkedin.com/in/yassine-lamsaaf-9821462a8"><img src="https://img.shields.io/badge/LinkedIn-yassine-lamsaaf-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+&nbsp;<a href="tel:+212655241037"><img src="https://img.shields.io/badge/Phone-%2B212%20655%20241%20037-58a6ff?style=flat-square&labelColor=0d1117" alt="Phone" /></a>
+&nbsp;<a href="https://lamsaaf-yassine-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-lamsaaf--yassine.vercel.app-58a6ff?style=flat-square&labelColor=0d1117" alt="Portfolio" /></a>
+&nbsp;<a href="https://github.com/yassinelamsaaf"><img src="https://img.shields.io/badge/GitHub-yassinelamsaaf-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
 
 </div>
 
@@ -40,343 +27,136 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                            ABOUT ME                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+## About
 
-## 🧠 About Me
+Third-year software engineering student at the **Institut National des Postes et Télécommunications (INPT)** in Rabat, Morocco, specialising in software development and DevOps. Currently looking for a **2026 end-of-studies internship (PFE)**.
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=yassinelamsaaf&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile" />
-
-```typescript
-const yassine = {
-  role     : "Software Engineering Student",
-  school   : "INPT Rabat, Morocco  ·  2024 – 2027",
-  track    : "Diplôme d'ingénieur — Génie Logiciel",
-
-  focus    : ["Backend Systems", "Full-Stack", "DevOps", "AI"],
-
-  building : [
-    "Collaborative SaaS platforms",
-    "Production DevOps pipelines",
-    "AI-powered developer tools",
-  ],
-
-  clubs    : [
-    "VP External Relations @ A2S",
-    "Web Cell Lead @ CIT",
-  ],
-
-  openTo   : "Summer 2026 Software Engineering Internship",
-
-  passions : [
-    "Scalable Architectures",
-    "Intelligent Automation",
-    "Developer Tooling",
-    "System Design",
-  ],
-};
-```
-
-<br clear="right"/>
+- **Focus** — backend engineering, distributed systems, cloud infrastructure
+- **Currently exploring** — AI-assisted developer tooling (RAG + tool calling)
+- **Leadership** — VP External Relations @ Junior Enterprise A2S · Web Cell Lead @ CIT
+- **Languages** — Arabic (native) · French (conversational) · English (proficient) · Spanish (beginner)
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                           EXPERIENCE                                  -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+## Education
 
-<details>
-<summary><b>💼 Professional Experience</b></summary>
+| Institution | Qualification | Period |
+|:---|:---|:---|
+| **INPT** — Rabat, Morocco | Engineering Degree, Software Engineering | Sep 2024 – Jun 2027 |
+| **FSTG** — Marrakech, Morocco | DEUST in MIPC *(Mathematics, Computing, Physics, Chemistry)* | Sep 2022 – Jul 2024 |
 
-<br/>
-
-| | Role | Company | Period |
-|:---:|:---|:---|:---|
-| 🏢 | **Full-Stack Developer Intern** | B2BLink — SmartAlert | Jul – Aug 2025 |
-| 🤝 | **Development & Design Team Member** | INE Alumni Platform | Jul 2025 – Present |
-
-**@ B2BLink (SmartAlert)**
-- Built multi-channel authentication (email, phone, Google, Facebook OAuth)
-- Developed a multilingual chatbot (FR/AR) for automated customer support
-- Delivered user profile customization and account settings management
-- **Stack:** Spring Boot · REST APIs · React · React Native · Agile/Scrum
-
-**@ INE Alumni Platform**
-- Contributing to an alumni–student networking platform (directory, jobs, events)
-- Working alongside professional alumni with focus on code quality and best practices
-- **Stack:** Spring Boot · Spring Security (JWT) · JPA/Hibernate · PostgreSQL · React (Vite) · Tailwind CSS · Docker
-
-</details>
+**Coursework** — Algorithms · Computer Networks · Cybersecurity · Software Development · Cloud Computing · Databases · Agile
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                           TECH STACK                                  -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+## Experience
 
-## ⚙️ Tech Stack
+| Company | Role | Period |
+|:---|:---|:---|
+| **Advalio** | Full-Stack Developer Intern | Jul 2026 – Sep 2026 |
+| **B2BLink** — SmartAlert | Full-Stack Developer Intern | Jul 2025 – Aug 2025 |
+| **INE Alumni Platform** | Development & Design Team Member | Jul 2025 – Present |
 
-<div align="center">
+### Advalio — Full-Stack Developer Intern
 
-**Backend**
+Supervision and control platform for a **5G SA testbed** (`free5GC` + `srsRAN`), replacing manual CLI operation.
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python&theme=dark" />
+- Spring Boot 3 modular-monolith backend — SSH control, JWT/RBAC, audit trail
+- Real-time React/Vite frontend over WebSocket/STOMP
+- AI Copilot using RAG (`pgvector` + Ollama) with tool calling, acting only after explicit user confirmation
 
-**Frontend**
+### B2BLink — SmartAlert · Full-Stack Developer Intern
 
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,tailwind,vite&theme=dark" />
+Upgraded SmartAlert, a personalised alert solution for automotive offers.
 
-**Databases**
+- Multi-channel authentication (email, phone, Google, Facebook OAuth)
+- Multilingual customer-support chatbot (FR / AR)
+- User profile customisation and account settings
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase,supabase&theme=dark" />
+### INE Alumni Platform — Development & Design Team Member
 
-**DevOps & Cloud**
+Alumni–student networking platform (directory, job offers, events), built alongside professional alumni.
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,aws,nginx&theme=dark" />
+- Backend: Spring Boot, Spring Security (JWT), JPA/Hibernate, PostgreSQL
+- Frontend: React (Vite), Tailwind CSS · Containerised with Docker
 
-**Tools & Environment**
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
+## Projects
 
-</div>
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[Collaboration Platform](https://github.com/yassinelamsaaf/collaboration-platform)**<br/><sub>Feb – Jun 2026</sub> | Collaborative project-management web app with real-time notifications, team roles, Kanban boards and task tracking. | Angular · Spring Boot · PostgreSQL · WebSocket · Docker Compose |
+| **[Talent Scouting Platform](https://github.com/yassinelamsaaf?tab=repositories)**<br/><sub>Apr – Jun 2026</sub> | Proof-of-concept social platform for football talent discovery — TikTok-style video feed and scouting workflows. | Microservices · Event-Driven / DDD · Kafka · API Gateway · React Native · Kubernetes |
+| **[Travelo — DevOps Pipeline](https://github.com/yassinelamsaaf/travelo-infra)**<br/><sub>Mar – May 2026</sub> | Containerised 3-tier web app with automated delivery: CI/CD → container images → Kubernetes → GitOps with Argo CD. | Java · Spring Boot · MySQL · React · Nginx · Docker · GitHub Actions · Argo CD |
+| **[INE Alumni Platform](https://github.com/yassinelamsaaf?tab=repositories)**<br/><sub>Jul 2025 – Present</sub> | Alumni–student networking platform: professional directory, job offers and event management. | Java · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · React |
 
-<br/>
+---
 
-<details>
-<summary><b>📋 Full Stack Reference</b></summary>
+## Technical Skills
 
-<br/>
-
-| Category | Technologies |
+| Area | Technologies |
 |:---|:---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) |
-| **AI / LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D4A027?style=flat-square) |
-| **Practices** | ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=flat-square) ![GitOps](https://img.shields.io/badge/GitOps-FC6D26?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket%2FSTOMP-000000?style=flat-square) ![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white) |
+| **Languages** | Java · TypeScript · JavaScript · Python · C · C++ |
+| **Frontend** | React · Next.js · Angular · Tailwind CSS · Vite · HTML5 · CSS3 |
+| **Backend** | Spring Boot · Spring Security (JWT / RBAC) · Node.js · Express.js · REST APIs · WebSocket / STOMP |
+| **Databases** | PostgreSQL · pgvector · MySQL · MongoDB · Redis · Firebase · Supabase |
+| **DevOps & Cloud** | Docker · Docker Compose · Kubernetes · Argo CD · GitHub Actions · Git / GitHub · Linux · SSH |
+| **Architecture & Practices** | Microservices · Distributed Systems · Event-Driven Design · DDD · CI/CD · GitOps · API Gateway · Agile / Scrum |
 
-</details>
+**Beyond the code** — project management · public speaking · team leadership · cross-team collaboration
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECTS                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
+## GitHub Activity
 
 <div align="center">
 
-<table>
-
-<!-- ROW 1 -->
-<tr>
-<td width="50%" valign="top">
-<br/>
-
-<h3 align="center">🤖 Code Mouse</h3>
-<p align="center"><sup>AI CODING MENTOR</sup></p>
-
-An AI-powered coding assistant that provides contextual hints, adaptive learning exercises, and personalized code reviews — designed to accelerate junior developer growth.
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-</p>
-<img src="https://img.shields.io/badge/Status-Active-00cc8f?style=flat-square" />
-<br/>
-</td>
-
-<td width="50%" valign="top">
-<br/>
-
-<h3 align="center">🚨 SmartAlert</h3>
-<p align="center"><sup>INTERNSHIP · B2BLINK</sup></p>
-
-Personalized automotive offer alert system with multi-channel OAuth (email, phone, Google, Facebook), a multilingual chatbot (FR/AR), and full user profile management.
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
-</p>
-<img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
-<br/>
-</td>
-</tr>
-
-<!-- ROW 2 -->
-<tr>
-<td width="50%" valign="top">
-<br/>
-
-<h3 align="center">🤝 Collaboration Platform</h3>
-<p align="center"><sup>FULL-STACK SAAS</sup></p>
-
-Asana-style SaaS project management app with real-time WebSocket notifications, RBAC (Owner/Admin/Member), Kanban boards with drag-and-drop, sub-task tracking, and email invitations.
-
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSocket-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-<img src="https://img.shields.io/badge/Status-In_Progress-f0ad4e?style=flat-square" />
-<br/>
-</td>
-
-<td width="50%" valign="top">
-<br/>
-
-<h3 align="center">📚 Adaptive Learning Platform</h3>
-<p align="center"><sup>E-LEARNING · CIT @ INPT</sup></p>
-
-E-learning platform for the CIT web cell featuring MDX-based course content, SSR with Next.js App Router, a Spring Boot API layer, and Supabase for storage and auth.
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
-<img src="https://img.shields.io/badge/Status-Active-00cc8f?style=flat-square" />
-<br/>
-</td>
-</tr>
-
-<!-- ROW 3 -->
-<tr>
-<td width="50%" valign="top">
-<br/>
-
-<h3 align="center">✈️ Travelo — DevOps Pipeline</h3>
-<p align="center"><sup>CI/CD · KUBERNETES · GITOPS</sup></p>
-
-3-tier containerized travel app showcasing a production-grade DevOps pipeline: GitHub Actions CI/CD → Docker images → Kubernetes orchestration → GitOps with Argo CD. Zero-downtime deploys.
-
-<p>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-</p>
-<img src="https://img.shields.io/badge/Status-Active-00cc8f?style=flat-square" />
-<br/>
-</td>
-
-<td width="50%" valign="top">
-<br/>
-
-<h3 align="center">🔐 Spring Boot JWT Auth</h3>
-<p align="center"><sup>STARTER TEMPLATE</sup></p>
-
-Production-ready authentication starter kit with JWT + refresh tokens, role-based access control (RBAC), OAuth2 social login, email verification, and Spring Security best practices.
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth2-EB5757?style=flat-square" />
-</p>
-<img src="https://img.shields.io/badge/Status-Template-8b949e?style=flat-square" />
-<br/>
-</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB ANALYTICS                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yassinelamsaaf&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yassinelamsaaf&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" />
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=yassinelamsaaf&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-
-<br/><br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinelamsaaf&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yassinelamsaaf&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=132031&area=true&hide_border=true&custom_title=Contribution+Activity" />
-
-<br/><br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yassinelamsaaf&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                       CONTRIBUTION SNAKE                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Map
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassinelamsaaf/yassinelamsaaf/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassinelamsaaf/yassinelamsaaf/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/yassinelamsaaf/yassinelamsaaf/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          CURRENT FOCUS                                -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                             CONTACT                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## 📬 Get In Touch
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yassine-lamsaaf-9821462a8">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:lamsaafyassine20@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/yassinelamsaaf">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-> *"The best way to predict the future is to build it."*
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinelamsaaf&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" />
 
 <br/>
 
+<img height="170" src="https://streak-stats.demolab.com?user=yassinelamsaaf&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="Contribution Streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassinelamsaaf/yassinelamsaaf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassinelamsaaf/yassinelamsaaf/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/yassinelamsaaf/yassinelamsaaf/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
-<!-- ─── FOOTER WAVE ───────────────────────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=120&section=footer" />
+---
+
+## Leadership & Extracurricular
+
+| Organisation | Role | Period | Scope |
+|:---|:---|:---|:---|
+| **Junior Enterprise A2S** — INPT | Vice-President, External Relations | Sep 2024 – Jul 2025 | Organised mentoring events, workshops and tech talks; developed external partnerships. |
+| **Computer & Telecom Club (CIT)** — INPT | Web Cell Lead | Sep 2024 – Jul 2025 | Ran and delivered web development training sessions for club members. |
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:lamsaafyassine20@gmail.com">lamsaafyassine20@gmail.com</a>
+&nbsp;·&nbsp;
+<a href="tel:+212655241037">+212 655 241 037</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/yassine-lamsaaf-9821462a8">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/yassinelamsaaf">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://lamsaaf-yassine-portfolio.vercel.app">Portfolio</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer" />
+
+</div>

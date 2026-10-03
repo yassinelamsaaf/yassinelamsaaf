@@ -9,6 +9,11 @@ on:
     branches:
       - main
 
+concurrency:
+  # Prevent overlapping runs from racing on the `output` branch push
+  group: snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     name: Generate Contribution Snake
