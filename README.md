@@ -45,7 +45,7 @@ I enjoy problems where the difficulty sits in the architecture rather than the s
 - **Focus** | backend engineering, distributed systems, cloud infrastructure
 - **Exploring** | retrieval-augmented generation and tool-calling agents
 - **Outside of code** | VP External Relations @ Junior Enterprise A2S, Web Cell Lead @ CIT
-- **Languages** | Arabic (native), French (conversational), English (proficient), Spanish (beginner)
+- **Languages** | Arabic (native), French (conversational), English (proficient), Spanish(beginner)
 
 ---
 
