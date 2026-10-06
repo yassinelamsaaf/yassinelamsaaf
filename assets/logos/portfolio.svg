@@ -1,5 +1,5 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.67" height="20" viewBox="0 0 67.67 20">
-  <rect x="0.5" y="0.5" width="66.67" height="19" rx="4.5" fill="#f6f8fa" stroke="#d8dee4"/>
-  <g transform="translate(6,3.5) scale(0.0585585585585586)" data-vb="0 0 256 222"><path d="m128 0l128 221.705H0z"/></g>
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.67" height="20" viewBox="0 0 67.67 20" data-group="contact">
+  <rect x="0.5" y="0.5" width="66.67" height="19" rx="0" fill="#f6f8fa" stroke="#d0d7de"/>
+  <g transform="translate(6,3.5) scale(0.0585585585585586)" data-vb="0 0 256 222" fill="#1f2328"><path d="m128 0l128 221.705H0z"/></g>
   <text x="24.99" y="13.6" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="500" fill="#1f2328">Portfolio</text>
 </svg>

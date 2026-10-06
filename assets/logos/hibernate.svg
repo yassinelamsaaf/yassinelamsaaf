@@ -1,5 +1,5 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71.81" height="20" viewBox="0 0 71.81 20">
-  <rect x="0.5" y="0.5" width="70.81" height="19" rx="4.5" fill="#f6f8fa" stroke="#d8dee4"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71.81" height="20" viewBox="0 0 71.81 20" data-group="back">
+  <rect x="0.5" y="0.5" width="70.81" height="19" rx="0" fill="#dcfce7" stroke="#86efac"/>
   <g transform="translate(6,3.5) scale(0.048689138576779)" data-vb="0 0 256 267"><path fill="#59666c" d="m153.671 178.933l-.932 2.757l49.137 83.342l2.781 1.968L256 178.22l-51.342-89.137zM50.273.304L0 89.084l52.234 89.849l49.738-89.85l-.134-3.63L52.565 2.11z"/><path fill="#bcae79" d="m50.273.304l51.7 88.78h102.684L152.601.304zm1.961 178.629L102.864 267h101.793l-50.986-88.067z"/></g>
   <text x="22.46" y="13.6" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="500" fill="#1f2328">Hibernate</text>
 </svg>

@@ -1,5 +1,5 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.62" height="20" viewBox="0 0 97.62 20">
-  <rect x="0.5" y="0.5" width="96.62" height="19" rx="4.5" fill="#f6f8fa" stroke="#d8dee4"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.62" height="20" viewBox="0 0 97.62 20" data-group="front">
+  <rect x="0.5" y="0.5" width="96.62" height="19" rx="0" fill="#cffafe" stroke="#67e8f9"/>
   <g transform="translate(6,3.5) scale(0.0844155844155844)" data-vb="0 0 256 154"><defs><linearGradient id="SVGJSB7ld0l" x1="-2.778%" x2="100%" y1="32%" y2="67.556%"><stop offset="0%" stop-color="#2298bd"/><stop offset="100%" stop-color="#0ed7b5"/></linearGradient></defs><path fill="url(#SVGJSB7ld0l)" d="M128 0Q76.8 0 64 51.2Q83.2 25.6 108.8 32c9.737 2.434 16.697 9.499 24.401 17.318C145.751 62.057 160.275 76.8 192 76.8q51.2 0 64-51.2q-19.2 25.6-44.8 19.2c-9.737-2.434-16.697-9.499-24.401-17.318C174.249 14.743 159.725 0 128 0M64 76.8q-51.2 0-64 51.2q19.2-25.6 44.8-19.2c9.737 2.434 16.697 9.499 24.401 17.318C81.751 138.857 96.275 153.6 128 153.6q51.2 0 64-51.2q-19.2 25.6-44.8 19.2c-9.737-2.434-16.697-9.499-24.401-17.318C110.249 91.543 95.725 76.8 64 76.8"/></g>
   <text x="31.61" y="13.6" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="500" fill="#1f2328">Tailwind CSS</text>
 </svg>

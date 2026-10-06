@@ -33,7 +33,20 @@ PAD = 6.0
 GAP = 4.0
 MARK = 13.0
 MAXW = 42.0           # width cap on the mark
+RADIUS = 0.0          # square corners
+INK = "#1f2328"       # label colour, and the only colour a matte mark may use
 SLACK = 1.5            # tolerated shortfall before a label counts as clipped
+
+# group -> (card fill, card edge). One fill per group.
+GROUPS = {
+    "contact": ("#f6f8fa", "#d0d7de"),
+    "lang": ("#dbeafe", "#93c5fd"),
+    "front": ("#cffafe", "#67e8f9"),
+    "back": ("#dcfce7", "#86efac"),
+    "data": ("#ffedd5", "#fdba74"),
+    "ops": ("#ede9fe", "#c4b5fd"),
+}
+MATTE_GROUP = "contact"
 
 # Helvetica advance widths per 1000 em.
 W = {
@@ -93,13 +106,29 @@ def main():
                 f"{name}: viewBox {vb[2]}x{vb[3]} disagrees with width/height {w}x{h}"
             )
 
+        group = root.get("data-group")
+        if group not in GROUPS:
+            problems.append(f"{name}: unknown or missing data-group {group!r}")
+            want_bg = want_edge = None
+        else:
+            want_bg, want_edge = GROUPS[group]
+
         rect = root.find(f"{SVG}rect")
         if rect is None:
             problems.append(f"{name}: no card background rect")
         else:
             rx = float(rect.get("rx", 0))
-            if not (0 < rx <= h / 2):
-                problems.append(f"{name}: corner radius {rx} out of range for height {h}")
+            if abs(rx - RADIUS) > 0.01:
+                problems.append(f"{name}: corner radius {rx}, expected {RADIUS}")
+            if want_bg:
+                if (rect.get("fill") or "").lower() != want_bg:
+                    problems.append(
+                        f"{name}: fill {rect.get('fill')!r}, expected {want_bg} for {group}"
+                    )
+                if (rect.get("stroke") or "").lower() != want_edge:
+                    problems.append(
+                        f"{name}: stroke {rect.get('stroke')!r}, expected {want_edge} for {group}"
+                    )
 
         text = root.find(f"{SVG}text")
         if text is None or not (text.text or "").strip():
@@ -150,6 +179,31 @@ def main():
                     )
                 mark_w = float(src[2]) * scale
 
+                # A matte mark must resolve to exactly one colour. Anything left
+                # in currentColor would follow whatever the renderer picks, and
+                # any surviving hex paint means the mark is not actually flat.
+                if group == MATTE_GROUP:
+                    if (g.get("fill") or "").lower() != INK:
+                        problems.append(
+                            f"{name}: matte mark has fill {g.get('fill')!r}, "
+                            f"expected {INK}"
+                        )
+                    stray = set()
+                    for el in g.iter():
+                        for attr in ("fill", "stop-color", "stroke"):
+                            v = (el.get(attr) or "").lower()
+                            if v and not v.startswith("url(#") and v != INK:
+                                stray.add(v)
+                    if "currentcolor" in stray:
+                        stray.discard("currentcolor")
+                        problems.append(
+                            f"{name}: matte mark still uses currentColor"
+                        )
+                    if stray:
+                        problems.append(
+                            f"{name}: matte mark has non-ink paint {sorted(stray)}"
+                        )
+
         tx = float(text.get("x", 0))
         want_tx = PAD + mark_w + (GAP if mark_w else 0.0)
         if abs(tx - want_tx) > 0.05:
@@ -165,12 +219,12 @@ def main():
                 f"(label {label!r} would clip)"
             )
 
-        rows.append((name, label, w, round(mark_w, 1)))
+        rows.append((name, label, group, w, round(mark_w, 1)))
 
-    print(f"{'slug':<16}{'label':<18}{'card w':>8}{'mark w':>8}")
-    print("-" * 50)
-    for n, lab, w, mw in rows:
-        print(f"{n:<16}{lab:<18}{w:>8}{mw:>8}")
+    print(f"{'slug':<16}{'label':<18}{'group':<9}{'card w':>8}{'mark w':>8}")
+    print("-" * 59)
+    for n, lab, grp, w, mw in rows:
+        print(f"{n:<16}{lab:<18}{grp:<9}{w:>8}{mw:>8}")
 
     print()
     print(f"cards: {len(rows)}   problems: {len(problems)}")

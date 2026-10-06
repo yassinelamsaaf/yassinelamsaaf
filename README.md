@@ -1,4 +1,4 @@
-﻿<!--
+<!--
   ============================================================================
   YASSINE LAMSAAF | GITHUB PROFILE README
 
@@ -9,9 +9,12 @@
      Marks come from the Iconify API (iconify.design), which carries brand
      colours and, unlike shields.io, actually has a LinkedIn and a phone icon.
      Self-hosting means the page never depends on a third-party CDN to render.
-  2. Cards are 20px tall and exactly as wide as [mark][label]. A card supplies
-     its own light background, so monochrome marks (Next.js #000, Express #222)
-     stay legible on GitHub's dark theme without recolouring anything.
+  2. Cards are 20px tall, square-cornered and exactly as wide as [mark][label].
+     Stack cards take their category's tint and butt up against each other; the
+     five contact cards share one neutral fill and their marks are flattened to a
+     single ink colour. A card supplies its own light background, so monochrome
+     marks (Next.js #000, Express #222) stay legible on GitHub's dark theme
+     without recolouring anything.
   3. To show the contribution animation, delete the <details> wrapper around
      "Contribution animation" in the GitHub Activity section.
   ============================================================================
@@ -64,60 +67,60 @@ I like the parts that are hard to keep correct as a system grows: distributed wo
 
 ### Languages
 
-<a href="https://www.oracle.com/java/"><img src="assets/logos/java.svg" height="20" alt="Java" /></a>&nbsp;&nbsp;
-<a href="https://www.javascript.com/"><img src="assets/logos/javascript.svg" height="20" alt="JavaScript" /></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="assets/logos/typescript.svg" height="20" alt="TypeScript" /></a>&nbsp;&nbsp;
-<a href="https://www.python.org/"><img src="assets/logos/python.svg" height="20" alt="Python" /></a>&nbsp;&nbsp;
-<a href="https://isocpp.org/"><img src="assets/logos/c.svg" height="20" alt="C" /></a>&nbsp;&nbsp;
+<a href="https://www.oracle.com/java/"><img src="assets/logos/java.svg" height="20" alt="Java" /></a>
+<a href="https://www.javascript.com/"><img src="assets/logos/javascript.svg" height="20" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="assets/logos/typescript.svg" height="20" alt="TypeScript" /></a>
+<a href="https://www.python.org/"><img src="assets/logos/python.svg" height="20" alt="Python" /></a>
+<a href="https://isocpp.org/"><img src="assets/logos/c.svg" height="20" alt="C" /></a>
 <a href="https://isocpp.org/"><img src="assets/logos/cpp.svg" height="20" alt="C++" /></a>
 
 ### Frontend
 
-<a href="https://react.dev/"><img src="assets/logos/react.svg" height="20" alt="React" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img src="assets/logos/nextjs.svg" height="20" alt="Next.js" /></a>&nbsp;&nbsp;
-<a href="https://angular.dev/"><img src="assets/logos/angular.svg" height="20" alt="Angular" /></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img src="assets/logos/tailwind.svg" height="20" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
-<a href="https://vite.dev/"><img src="assets/logos/vite.svg" height="20" alt="Vite" /></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/logos/html5.svg" height="20" alt="HTML5" /></a>&nbsp;&nbsp;
+<a href="https://react.dev/"><img src="assets/logos/react.svg" height="20" alt="React" /></a>
+<a href="https://nextjs.org/"><img src="assets/logos/nextjs.svg" height="20" alt="Next.js" /></a>
+<a href="https://angular.dev/"><img src="assets/logos/angular.svg" height="20" alt="Angular" /></a>
+<a href="https://tailwindcss.com/"><img src="assets/logos/tailwind.svg" height="20" alt="Tailwind CSS" /></a>
+<a href="https://vite.dev/"><img src="assets/logos/vite.svg" height="20" alt="Vite" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/logos/html5.svg" height="20" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/logos/css3.svg" height="20" alt="CSS3" /></a>
 
 ### Backend
 
-<a href="https://spring.io/projects/spring-boot"><img src="assets/logos/spring.svg" height="20" alt="Spring Boot" /></a>&nbsp;&nbsp;
-<a href="https://spring.io/projects/spring-security"><img src="assets/logos/springsecurity.svg" height="20" alt="Spring Security" /></a>&nbsp;&nbsp;
-<a href="https://hibernate.org/"><img src="assets/logos/hibernate.svg" height="20" alt="Hibernate" /></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/"><img src="assets/logos/nodejs.svg" height="20" alt="Node.js" /></a>&nbsp;&nbsp;
-<a href="https://expressjs.com/"><img src="assets/logos/express.svg" height="20" alt="Express.js" /></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket"><img src="assets/logos/websocket.svg" height="20" alt="WebSocket" /></a>&nbsp;&nbsp;
-<a href="https://grpc.io/"><img src="assets/logos/grpc.svg" height="20" alt="gRPC" /></a>&nbsp;&nbsp;
-<img src="assets/logos/rest.svg" height="20" alt="REST APIs" />&nbsp;&nbsp;
-<a href="https://jwt.io/"><img src="assets/logos/jwt.svg" height="20" alt="JWT" /></a>&nbsp;&nbsp;
+<a href="https://spring.io/projects/spring-boot"><img src="assets/logos/spring.svg" height="20" alt="Spring Boot" /></a>
+<a href="https://spring.io/projects/spring-security"><img src="assets/logos/springsecurity.svg" height="20" alt="Spring Security" /></a>
+<a href="https://hibernate.org/"><img src="assets/logos/hibernate.svg" height="20" alt="Hibernate" /></a>
+<a href="https://nodejs.org/"><img src="assets/logos/nodejs.svg" height="20" alt="Node.js" /></a>
+<a href="https://expressjs.com/"><img src="assets/logos/express.svg" height="20" alt="Express.js" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket"><img src="assets/logos/websocket.svg" height="20" alt="WebSocket" /></a>
+<a href="https://grpc.io/"><img src="assets/logos/grpc.svg" height="20" alt="gRPC" /></a>
+<img src="assets/logos/rest.svg" height="20" alt="REST APIs" />
+<a href="https://jwt.io/"><img src="assets/logos/jwt.svg" height="20" alt="JWT" /></a>
 <img src="assets/logos/rbac.svg" height="20" alt="RBAC" />
 
 ### Databases
 
-<a href="https://www.postgresql.org/"><img src="assets/logos/postgresql.svg" height="20" alt="PostgreSQL" /></a>&nbsp;&nbsp;
-<img src="assets/logos/pgvector.svg" height="20" alt="pgvector" />&nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img src="assets/logos/mysql.svg" height="20" alt="MySQL" /></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/"><img src="assets/logos/mongodb.svg" height="20" alt="MongoDB" /></a>&nbsp;&nbsp;
-<a href="https://redis.io/"><img src="assets/logos/redis.svg" height="20" alt="Redis" /></a>&nbsp;&nbsp;
-<a href="https://firebase.google.com/"><img src="assets/logos/firebase.svg" height="20" alt="Firebase" /></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="assets/logos/postgresql.svg" height="20" alt="PostgreSQL" /></a>
+<img src="assets/logos/pgvector.svg" height="20" alt="pgvector" />
+<a href="https://www.mysql.com/"><img src="assets/logos/mysql.svg" height="20" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/"><img src="assets/logos/mongodb.svg" height="20" alt="MongoDB" /></a>
+<a href="https://redis.io/"><img src="assets/logos/redis.svg" height="20" alt="Redis" /></a>
+<a href="https://firebase.google.com/"><img src="assets/logos/firebase.svg" height="20" alt="Firebase" /></a>
 <a href="https://supabase.com/"><img src="assets/logos/supabase.svg" height="20" alt="Supabase" /></a>
 
 ### DevOps & Cloud
 
-<a href="https://www.docker.com/"><img src="assets/logos/docker.svg" height="20" alt="Docker" /></a>&nbsp;&nbsp;
-<img src="assets/logos/compose.svg" height="20" alt="Docker Compose" />&nbsp;&nbsp;
-<a href="https://kubernetes.io/"><img src="assets/logos/kubernetes.svg" height="20" alt="Kubernetes" /></a>&nbsp;&nbsp;
-<a href="https://argo-cd.readthedocs.io/"><img src="assets/logos/argocd.svg" height="20" alt="Argo CD" /></a>&nbsp;&nbsp;
-<a href="https://github.com/features/actions"><img src="assets/logos/actions.svg" height="20" alt="GitHub Actions" /></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="assets/logos/git.svg" height="20" alt="Git" /></a>&nbsp;&nbsp;
-<a href="https://www.kernel.org/"><img src="assets/logos/linux.svg" height="20" alt="Linux" /></a>&nbsp;&nbsp;
-<img src="assets/logos/ssh.svg" height="20" alt="SSH" />&nbsp;&nbsp;
-<a href="https://nginx.org/"><img src="assets/logos/nginx.svg" height="20" alt="Nginx" /></a>&nbsp;&nbsp;
-<a href="https://maven.apache.org/"><img src="assets/logos/maven.svg" height="20" alt="Maven" /></a>&nbsp;&nbsp;
-<a href="https://kafka.apache.org/"><img src="assets/logos/kafka.svg" height="20" alt="Kafka" /></a>&nbsp;&nbsp;
-<a href="https://ollama.com/"><img src="assets/logos/ollama.svg" height="20" alt="Ollama" /></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="assets/logos/docker.svg" height="20" alt="Docker" /></a>
+<img src="assets/logos/compose.svg" height="20" alt="Docker Compose" />
+<a href="https://kubernetes.io/"><img src="assets/logos/kubernetes.svg" height="20" alt="Kubernetes" /></a>
+<a href="https://argo-cd.readthedocs.io/"><img src="assets/logos/argocd.svg" height="20" alt="Argo CD" /></a>
+<a href="https://github.com/features/actions"><img src="assets/logos/actions.svg" height="20" alt="GitHub Actions" /></a>
+<a href="https://git-scm.com/"><img src="assets/logos/git.svg" height="20" alt="Git" /></a>
+<a href="https://www.kernel.org/"><img src="assets/logos/linux.svg" height="20" alt="Linux" /></a>
+<img src="assets/logos/ssh.svg" height="20" alt="SSH" />
+<a href="https://nginx.org/"><img src="assets/logos/nginx.svg" height="20" alt="Nginx" /></a>
+<a href="https://maven.apache.org/"><img src="assets/logos/maven.svg" height="20" alt="Maven" /></a>
+<a href="https://kafka.apache.org/"><img src="assets/logos/kafka.svg" height="20" alt="Kafka" /></a>
+<a href="https://ollama.com/"><img src="assets/logos/ollama.svg" height="20" alt="Ollama" /></a>
 <a href="https://code.visualstudio.com/"><img src="assets/logos/vscode.svg" height="20" alt="VS Code" /></a>
 
 <details>
@@ -143,7 +146,7 @@ I like the parts that are hard to keep correct as a system grows: distributed wo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yassinelamsaaf&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub statistics" />&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yassinelamsaaf&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinelamsaaf&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Most used languages" />
 
 </div>
